@@ -5,14 +5,6 @@ I bridge the gap between development and operations by building robust automatio
 
 ---
 
-## 🚀 Impact & Visibility
-
-![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryd24&show_icons=true&theme=tokyonight&count_private=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=henryd24&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
----
-
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud & Orchestration
@@ -47,3 +39,11 @@ Building internal developer platforms (IDP) components, such as **Kubernetes Ope
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendam/)
 [![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henryd24)
+
+---
+
+## 🚀 Impact & Visibility
+
+![Henry's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=henryd24&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=henryd24&color=blue&style=flat-square&label=PROFILE+VIEWS)
