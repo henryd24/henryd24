@@ -8,6 +8,7 @@ I bridge the gap between development and operations by building robust automatio
 ## 🚀 Impact & Visibility
 
 ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryd24&show_icons=true&theme=tokyonight&count_private=true)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=henryd24&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ---
