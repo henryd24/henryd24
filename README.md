@@ -10,7 +10,7 @@ I bridge the gap between development and operations by building robust automatio
 ### ☁️ Cloud & Orchestration
 - **Multi-Cloud:** Expertise in **AWS, Azure, and Google Cloud Platform (GCP)**.
 - **Infrastructure as Code (IaC):** Advanced management using **Terraform, Terragrunt, Pulumi, and Crossplane**.
-- **Containers:** **Kubernetes** expert, Docker, Helm, and Rancher Desktop.
+- **Containers:** **Kubernetes** expert, OpenShift, Docker and Helm.
 
 ### 💻 Programming & Automation
 - **Languages:** Proficient in **Go, TypeScript, Python, and Shell Scripting** for backend and tooling.
