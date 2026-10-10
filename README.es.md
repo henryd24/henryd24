@@ -26,11 +26,19 @@ Conecto el desarrollo con las operaciones construyendo automatización robusta y
 
 **Cloud y Orquestación**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,helm,argocd,openshift&perline=9" alt="cloud and orchestration"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,openshift&perline=7" alt="cloud and orchestration"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
+<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
+<img src="https://img.shields.io/badge/Crossplane-1B2A3A?style=for-the-badge&logo=crossplane&logoColor=white" alt="Crossplane"/>
+<img src="https://img.shields.io/badge/Terragrunt-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt"/>
 
 **Programación y Automatización**
 
-<img src="https://skillicons.dev/icons?i=go,ts,py,bash,githubactions,jenkins,azure,linux,git&perline=9" alt="languages and CI/CD"/>
+<img src="https://skillicons.dev/icons?i=go,ts,py,bash,githubactions,jenkins,linux,git&perline=8" alt="languages and CI/CD"/>
 
 </div>
 
@@ -93,11 +101,9 @@ flowchart LR
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=henryd24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryd24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=henryd24&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=henryd24&theme=tokyonight&hide_border=true" alt="GitHub streak"/></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=henryd24&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/henryd24/henryd24/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+<p align="center"><img src="https://raw.githubusercontent.com/henryd24/henryd24/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/></p>
 
 </div>
 
