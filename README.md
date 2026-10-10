@@ -1,49 +1,122 @@
-# Hi there! I'm Henry Mosquera 👋
-### Senior DevOps | Multi-Cloud Specialist
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Henry%20Mosquera&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20DevOps%20%7C%20Multi-Cloud%20Specialist&descAlignY=58&descSize=20" alt="Henry Mosquera banner" width="100%"/>
+
+<a href="https://github.com/henryd24">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Senior+DevOps+Engineer;Multi-Cloud%3A+AWS+%7C+Azure+%7C+GCP;Platform+Engineering+%26+Developer+Tooling;Software+Defined+Everything" alt="Typing SVG" />
+</a>
+
+[English](README.md) · [Español](README.es.md)
+
+</div>
 
 I bridge the gap between development and operations by building robust automation and cloud-native platforms. Expert in infrastructure orchestration and creating custom developer tooling for high-scale environments.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+
+## 🌱 Currently
+
+- 🔭 Building Kubernetes operators and IDP components in **Go**
+- ⚙️ Shipping Azure DevOps extensions in **TypeScript**
+- 💬 Ask me about: **Terraform, Kubernetes, GitOps, Azure DevOps, multi-cloud**
 
 ## 🛠 Tech Stack
 
-### ☁️ Cloud & Orchestration
-- **Multi-Cloud:** Expertise in **AWS, Azure, and Google Cloud Platform (GCP)**.
-- **Infrastructure as Code (IaC):** Advanced management using **Terraform, Terragrunt, Pulumi, and Crossplane**.
-- **Containers:** **Kubernetes** expert, OpenShift, Docker and Helm.
+<div align="center">
 
-### 💻 Programming & Automation
-- **Languages:** Proficient in **Go, TypeScript, Python, and Shell Scripting** for backend and tooling.
-- **CI/CD & GitOps:** Architecting workflows with **Azure DevOps**, GitHub Actions, Jenkins and **Argo Tools**.
+**Cloud & Orchestration**
 
----
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,openshift&perline=7" alt="cloud and orchestration"/>
 
-## 📂 Key Contributions & Tooling
+<br/>
 
-### 🛠 [Azure DevOps Extensions Ecosystem](https://github.com/henryd24?tab=repositories&q=azdevops)
-I develop and maintain custom extensions used by multiple organizations to streamline DevOps processes:
-* **SonarCloud Automator:** Zero-touch project provisioning.
-* **Pipeline Execution Manager:** Advanced control and status verification for complex pipeline dependencies.
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
+<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
+<img src="https://img.shields.io/badge/Crossplane-1B2A3A?style=for-the-badge&logo=crossplane&logoColor=white" alt="Crossplane"/>
+<img src="https://img.shields.io/badge/Terragrunt-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt"/>
 
-### ⚓ [Cloud-Native Development](https://github.com/henryd24/kubernetes-operator-tag-images)
-Building internal developer platforms (IDP) components, such as **Kubernetes Operators** in Go to automate ECR lifecycle and environment promotion based on real-time deployment health.
+**Programming & Automation**
 
----
+<img src="https://skillicons.dev/icons?i=go,ts,py,bash,githubactions,jenkins,linux,git&perline=8" alt="languages and CI/CD"/>
+
+</div>
+
+- **IaC:** Terraform, Terragrunt, Pulumi, Crossplane
+- **CI/CD & GitOps:** Azure DevOps, GitHub Actions, Jenkins, Argo (CD, Rollouts, Workflows)
+- **Containers:** Kubernetes, OpenShift, Docker, Helm
+
+## 🏅 Certifications
+
+<div align="center">
+
+[![GitHub Administration](https://img.shields.io/badge/GitHub-Administration-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/f4a78224-919e-484b-8c60-3a21c28111c7)
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/eefd06c7-b225-4115-9b9e-74cd64f40c46)
+[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/15d5f031-733c-4d28-b9e2-76bac2120c9e)
+
+</div>
+
+## 📂 Featured Projects
+
+<div align="center">
+
+[![kubernetes-operator-tag-images](https://github-readme-stats.vercel.app/api/pin/?username=henryd24&repo=kubernetes-operator-tag-images&theme=tokyonight&hide_border=true)](https://github.com/henryd24/kubernetes-operator-tag-images)
+[![azure_devops_cli](https://github-readme-stats.vercel.app/api/pin/?username=henryd24&repo=azure_devops_cli&theme=tokyonight&hide_border=true)](https://github.com/henryd24/azure_devops_cli)
+
+[![azdevops-extension-exec-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=henryd24&repo=azdevops-extension-exec-pipeline&theme=tokyonight&hide_border=true)](https://github.com/henryd24/azdevops-extension-exec-pipeline)
+[![azdevops-sonarcloud-create-project](https://github-readme-stats.vercel.app/api/pin/?username=henryd24&repo=azdevops-sonarcloud-create-project&theme=tokyonight&hide_border=true)](https://github.com/henryd24/azdevops-sonarcloud-create-project)
+
+</div>
+
+### 🛠 Azure DevOps Extensions Ecosystem
+Custom extensions used by multiple organizations to streamline DevOps processes:
+
+| Extension | What it does |
+|---|---|
+| [**SonarCloud Automator**](https://github.com/henryd24/azdevops-sonarcloud-create-project) | Zero-touch project provisioning: checks if the project exists in SonarCloud and creates it if not. |
+| [**SonarQube Automator**](https://github.com/henryd24/azdevops-sonarqube-create-project) | Same flow for self-hosted SonarQube. |
+| [**Pipeline Execution Manager**](https://github.com/henryd24/azdevops-extension-exec-pipeline) | Runs pipelines, waits for them and verifies success, failure or cancellation for complex dependencies. |
+| [**azure_devops_cli**](https://github.com/henryd24/azure_devops_cli) | Unofficial Azure DevOps CLI written in Go. |
+
+### ⚓ Cloud-Native Development
+[**kubernetes-operator-tag-images**](https://github.com/henryd24/kubernetes-operator-tag-images) is a Go operator that watches Argo Rollouts and, once a deployment is healthy, retags the image in Amazon ECR with per-environment tags and an active tag for easy promotion and traceability.
+
+```mermaid
+flowchart LR
+    A[Argo Rollout] -->|healthy deployment| B[K8s Operator<br/>Go]
+    B -->|retag image| C[(Amazon ECR)]
+    C --> D[env tag: dev / stg / prod]
+    C --> E[active tag]
+    E -.->|promotion| A
+```
 
 ## 🧠 Core Philosophy
-> "Don't just manage infrastructure; build the tools that manage it for you." 
+> "Don't just manage infrastructure; build the tools that manage it for you."
 > I focus on **Software Defined Everything**, treating infrastructure, pipelines, and security as code to ensure consistency and speed.
-
----
-
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendam/)
-[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henryd24)
-
----
 
 ## 🚀 Impact & Visibility
 
-![Henry's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=henryd24&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=henryd24&color=blue&style=flat-square&label=PROFILE+VIEWS)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=henryd24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryd24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=henryd24&theme=tokyonight&hide_border=true" alt="GitHub streak"/></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/henryd24/henryd24/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/></p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+
+## 📫 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendam/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=henryd24&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
